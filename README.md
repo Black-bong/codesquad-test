@@ -311,6 +311,12 @@ private List<List<String>> getData(List<List<String>> saveMap, List<String> mapD
 - main메서드가 위치한 클래스 명
   - PrintMapData클래스
 
+## 2단계 코딩 요구사항
+- [X] 너무 크지 않은 함수 단위로 구현하고 중복된 코드를 줄이도록 노력한다
+- [X] 마찬가지로 Readme.md 파일과 작성한 소스 코드를 모두 기존 secret gist에 올려야 한다
+- [X] 전역변수의 사용을 자제한다
+- [X] 객체 또는 배열을 적절히 활용한다 
+
 <details>
 <summary>2단계 문제</summary>
 <div markdown="1">
@@ -396,12 +402,6 @@ Bye~
 <details>
 <summary>2단계 구현과정</summary>
 <div markdown="1">
-
-## 2단계 코딩 요구사항
-- [X] 너무 크지 않은 함수 단위로 구현하고 중복된 코드를 줄이도록 노력한다
-- [X] 마찬가지로 Readme.md 파일과 작성한 소스 코드를 모두 기존 secret gist에 올려야 한다
-- [X] 전역변수의 사용을 자제한다
-- [X] 객체 또는 배열을 적절히 활용한다
 
 ### 1.처음 시작하면 스테이지 2의 지도를 출력한다.
 - [X] 1단계에서 구현한 저장소를 활용해서 출력
