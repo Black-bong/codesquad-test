@@ -597,6 +597,15 @@ private void readCommend(List<String> commands, Map<Integer, Runnable> controlle
     - 43
 - git commit log revision 번호
     - commit 0ad14229b1d5c09807486961561f248be85a4619
+ 
+### 3단계 코딩 요구사항
+- [X] 가능한 한 커밋을 자주 하고 구현의 의미가 명확하게 전달되도록 커밋 메시지를 작성한다
+- [X] 함수나 메소드는 한 번에 한 가지 일을 하고 가능하면 20줄이 넘지 않도록 구현한다
+- [X] 함수나 메소드의 들여쓰기를 가능하면 적게(3단계까지만) 할 수 있도록 노력한다
+
+### 실행
+- main메서드가 위치한 클래스 명
+  - SokobanGame클래스
 
 <details>
 <summary>3단계 문제</summary>
@@ -608,15 +617,6 @@ private void readCommend(List<String> commands, Map<Integer, Runnable> controlle
 </div>
 </details>
  
-### 3단계 코딩 요구사항
-- [X] 가능한 한 커밋을 자주 하고 구현의 의미가 명확하게 전달되도록 커밋 메시지를 작성한다
-- [X] 함수나 메소드는 한 번에 한 가지 일을 하고 가능하면 20줄이 넘지 않도록 구현한다
-- [X] 함수나 메소드의 들여쓰기를 가능하면 적게(3단계까지만) 할 수 있도록 노력한다
-
-### 실행
-- main메서드가 위치한 클래스 명
-  - SokobanGame클래스
-
 <details>
 <summary>3단계 구현과정</summary>
 <div markdown="1">
